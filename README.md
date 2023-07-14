@@ -1,8 +1,8 @@
 # xudq-sso
 the sso SaaS from bjsdtech
 
-1. create Mysql DB: test
-2. run query: grant all privileges on test.* to 'root'@'localhost' identified by '12345678';
+1. create Mysql DB: xudq
+2. run query: grant all privileges on test.* to 'xudq'@'localhost' identified by '12345678';
 3. mvn clean package
 4. run LoginApplication
 5. run ResourceApplication
