@@ -1,4 +1,4 @@
-# xudq-sso
+# xudq-saas-sso
 the sso SaaS from bjsdtech
 
 1. create Mysql DB: xudq
